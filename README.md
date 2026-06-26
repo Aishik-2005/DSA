@@ -10,6 +10,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0004-median-of-two-sorted-arrays](https://github.com/Aishik-2005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aishik-2005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
