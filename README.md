@@ -8,6 +8,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | ------- |
 | [0001-two-sum](https://github.com/Aishik-2005/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aishik-2005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,8 +49,13 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishik-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishik-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
