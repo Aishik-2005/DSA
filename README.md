@@ -28,6 +28,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0002-add-two-numbers](https://github.com/Aishik-2005/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aishik-2005/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aishik-2005/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Aishik-2005/DSA/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishik-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Aishik-2005/DSA/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishik-2005/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aishik-2005/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
