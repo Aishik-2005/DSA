@@ -21,6 +21,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aishik-2005/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Aishik-2005/DSA/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
