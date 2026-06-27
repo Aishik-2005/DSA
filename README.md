@@ -11,6 +11,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aishik-2005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aishik-2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Aishik-2005/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0234-palindrome-linked-list) |
@@ -87,6 +89,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | ------- |
 | [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Aishik-2005/DSA/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
