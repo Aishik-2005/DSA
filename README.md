@@ -23,6 +23,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aishik-2005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aishik-2005/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Aishik-2005/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishik-2005/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -37,6 +38,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aishik-2005/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aishik-2005/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
