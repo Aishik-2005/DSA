@@ -41,6 +41,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0007-reverse-integer](https://github.com/Aishik-2005/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aishik-2005/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Aishik-2005/DSA/tree/master/0070-climbing-stairs) |
+| [1903-largest-odd-number-in-string](https://github.com/Aishik-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishik-2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aishik-2005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Aishik-2005/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Aishik-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishik-2005/DSA/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Aishik-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
