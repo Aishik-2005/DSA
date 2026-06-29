@@ -8,6 +8,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | ------- |
 | [0001-two-sum](https://github.com/Aishik-2005/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aishik-2005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Aishik-2005/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishik-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Aishik-2005/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aishik-2005/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aishik-2005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -110,4 +112,8 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aishik-2005/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
