@@ -13,6 +13,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Aishik-2005/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0007-reverse-integer](https://github.com/Aishik-2005/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aishik-2005/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Aishik-2005/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Aishik-2005/DSA/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aishik-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0141-linked-list-cycle](https://github.com/Aishik-2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Aishik-2005/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Aishik-2005/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Aishik-2005/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishik-2005/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
