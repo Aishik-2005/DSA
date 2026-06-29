@@ -54,6 +54,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishik-2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aishik-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/Aishik-2005/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aishik-2005/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Aishik-2005/DSA/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Aishik-2005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aishik-2005/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
