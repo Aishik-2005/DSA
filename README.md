@@ -122,10 +122,23 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aishik-2005/DSA/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishik-2005/DSA/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Aishik-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
