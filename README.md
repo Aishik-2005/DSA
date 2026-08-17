@@ -14,6 +14,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0027-remove-element](https://github.com/Aishik-2005/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aishik-2005/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aishik-2005/DSA/tree/master/0189-rotate-array) |
@@ -161,4 +162,12 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishik-2005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
