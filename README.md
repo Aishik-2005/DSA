@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Aishik-2005/DSA/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aishik-2005/DSA/tree/master/0189-rotate-array) |
@@ -111,6 +112,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishik-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Aishik-2005/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Aishik-2005/DSA/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
@@ -143,6 +145,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishik-2005/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Aishik-2005/DSA/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Aishik-2005/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
