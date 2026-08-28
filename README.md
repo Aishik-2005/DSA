@@ -14,6 +14,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0027-remove-element](https://github.com/Aishik-2005/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aishik-2005/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
@@ -24,6 +25,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0001-two-sum](https://github.com/Aishik-2005/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishik-2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishik-2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Aishik-2005/DSA/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -167,6 +169,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
