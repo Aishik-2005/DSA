@@ -15,6 +15,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0031-next-permutation](https://github.com/Aishik-2005/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Aishik-2005/DSA/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aishik-2005/DSA/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -182,4 +183,5 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishik-2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/Aishik-2005/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
