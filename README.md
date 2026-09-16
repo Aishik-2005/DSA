@@ -16,6 +16,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0033-search-in-rotated-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aishik-2005/DSA/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aishik-2005/DSA/tree/master/0055-jump-game) |
@@ -29,6 +30,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishik-2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishik-2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Aishik-2005/DSA/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -176,6 +178,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -185,5 +188,14 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishik-2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aishik-2005/DSA/tree/master/0039-combination-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
