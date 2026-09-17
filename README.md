@@ -18,6 +18,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aishik-2005/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aishik-2005/DSA/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aishik-2005/DSA/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -190,6 +191,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aishik-2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aishik-2005/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aishik-2005/DSA/tree/master/0040-combination-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
