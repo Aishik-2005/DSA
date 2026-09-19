@@ -24,6 +24,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aishik-2005/DSA/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Aishik-2005/DSA/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0004-median-of-two-sorted-arrays](https://github.com/Aishik-2005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Aishik-2005/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Aishik-2005/DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,10 +130,12 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0018-4sum](https://github.com/Aishik-2005/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Aishik-2005/DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aishik-2005/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -200,4 +205,16 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
