@@ -19,6 +19,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aishik-2005/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aishik-2005/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Aishik-2005/DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Aishik-2005/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aishik-2005/DSA/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -108,6 +109,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0027-remove-element](https://github.com/Aishik-2005/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishik-2005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Aishik-2005/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Aishik-2005/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aishik-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aishik-2005/DSA/tree/master/0141-linked-list-cycle) |
@@ -121,6 +123,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishik-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Aishik-2005/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aishik-2005/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Aishik-2005/DSA/tree/master/0070-climbing-stairs) |
 ## Sorting
@@ -148,6 +151,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aishik-2005/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -217,4 +221,8 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aishik-2005/DSA/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aishik-2005/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
