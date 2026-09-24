@@ -15,6 +15,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0031-next-permutation](https://github.com/Aishik-2005/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aishik-2005/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Aishik-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aishik-2005/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aishik-2005/DSA/tree/master/0039-combination-sum) |
@@ -91,6 +92,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0004-median-of-two-sorted-arrays](https://github.com/Aishik-2005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishik-2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aishik-2005/DSA/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
