@@ -173,6 +173,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0098-validate-binary-search-tree](https://github.com/Aishik-2005/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0098-validate-binary-search-tree](https://github.com/Aishik-2005/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0098-validate-binary-search-tree](https://github.com/Aishik-2005/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0226-invert-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -240,4 +243,8 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aishik-2005/DSA/tree/master/0098-validate-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
