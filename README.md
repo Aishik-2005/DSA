@@ -178,6 +178,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishik-2005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -187,6 +188,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aishik-2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishik-2005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## String Matching
 |  |
@@ -262,4 +265,8 @@ A collection of Data Structures and Algorithms problems solved from LeetCode usi
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aishik-2005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Aishik-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
